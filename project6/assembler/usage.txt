@@ -1,0 +1,2 @@
+1-Open cmd to current folder.
+2-type in: java Main.java Rect.asm
